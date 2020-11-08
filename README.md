@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Samarth
 I am a senior software developer 
 
-- 🔭 I’m currently working on Tricog 
+- 🔭 I’m currently working on Biofourmis
 - 🌱 I’m currently learning Golang and  kubernetes 
 - 👯 I’m looking to collaborate on Image processing 
 - 📫 How to reach me: samarth19sam@gmail.com 
