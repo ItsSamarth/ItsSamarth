@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Samarth
-I am a senior software developer 
+I am a Technical Lead 
 
 - 🔭 I’m currently working on Biofourmis
-- 🌱 I’m currently learning Golang and  kubernetes 
-- 👯 I’m looking to collaborate on Image processing 
+- 🌱 I’m currently learning Golang and kubernetes 
+- 👯 I’m looking to collaborate on realtime streaming services 
 - 📫 How to reach me: samarth19sam@gmail.com 
 
 
