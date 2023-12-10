@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Samarth
-I am a Technical Lead 
+I am a Team Lead 
 
 - 🔭 I’m currently working on Biofourmis
 - 🌱 I’m currently learning Golang and kubernetes 
